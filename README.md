@@ -86,3 +86,8 @@ described in the paper as the production deployment path but are not
 included in this prototype, consistent with the hackathon's guidance
 that prototypes need not be complete: "Perfection is not expected.
 Originality is."
+
+## Ownership
+
+- **Owner:** Abdulkadir umar
+- **Hugging Face:** [MR-CODESPIKE](https://huggingface.co/MR-CODESPIKE)
